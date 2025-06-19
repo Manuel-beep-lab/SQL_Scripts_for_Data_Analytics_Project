@@ -1,0 +1,1 @@
+# SQL_Scripts_for_Data_Analytics_Project
